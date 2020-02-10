@@ -165,3 +165,7 @@ http://opentracker.i2p.rocks:6969/announce
 http://open.acgnxtracker.com:80/announce
 
 http://mail2.zelenaya.net:80/announce
+
+http://bt1.archive.org:6969/announce
+
+http://bt2.archive.org:6969/announce
